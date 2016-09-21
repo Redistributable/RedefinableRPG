@@ -16,7 +16,7 @@ namespace Redefinable.Applications.RapidRPG
         /// <param name="args"></param>
         public static void Main(string[] args)
         {
-
+            
         }
     }
 }
